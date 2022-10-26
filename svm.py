@@ -1,7 +1,7 @@
 # -------------------------------------------------------------------------
 # AUTHOR: Abdur Rahman
 # FILENAME: svm.py
-# SPECIFICATION:
+# SPECIFICATION: Compares different SVM models built using different hyperparameters
 # FOR: CS 4210- Assignment #3
 # TIME SPENT: 30 minutes
 # -----------------------------------------------------------*/
